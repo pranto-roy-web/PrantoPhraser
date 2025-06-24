@@ -1,0 +1,232 @@
+#EXTM3U
+
+### 🇧🇩 Bangladeshi Channels
+
+#EXTINF:-1 tvg-name="BTV" tvg-logo="https://images.seeklogo.com/logo-png/45/1/btv-bangladesh-television-logo-png_seeklogo-459657.png?v=1963097728235387944", BTV
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/master.m3u8
+
+#EXTINF:-1 tvg-name="Boishakhi TV" tvg-logo="https://images.seeklogo.com/logo-png/17/1/boishakhi-tv-logo-png_seeklogo-175644.png", Boishakhi TV
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+
+#EXTINF:-1 tvg-name="Deshi TV", Deshi TV
+http://208.86.19.13:81/514.stream/index.m3u8
+
+#EXTINF:-1 tvg-name="T Sports", T Sports
+http://38.96.178.201/live/TSports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Channel I HD", Channel I HD
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1723/output/master.m3u8
+
+#EXTINF:-1 tvg-name="ATN Bangla HD", ATN Bangla HD
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1722/output/master.m3u8
+
+#EXTINF:-1 tvg-name="Ekattor TV HD", Ekattor TV HD
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/sonamul.haq.siyam.m3u8
+
+#EXTINF:-1 tvg-name="GTV HD", GTV HD
+http://103.175.242.10:8080/gtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Independent", Independent
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/sonamul.haq.siyam.m3u8
+
+#EXTINF:-1 tvg-name="My TV", My TV
+https://mytvbangla.com/0.m3u8
+
+#EXTINF:-1 tvg-name="Deepto TV", Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+
+#EXTINF:-1 tvg-name="Masranga TV", Masranga TV
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="SATV HD", SATV HD
+https://aynapubluc.vercel.app/api/stream/d07563b0-7580-4cbd-a7c9-e67535c0164a.m3u8?%7Cuser-agent=@xfireflix
+
+#EXTINF:-1 tvg-name="Me TV", Me TV
+https://iptvbd.live/metv1080/1080.m3u8
+
+#EXTINF:-1 tvg-name="Jamuna TV", Jamuna TV
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1701/output/index.m3u8
+
+#EXTINF:-1 tvg-name="Banglavision", Banglavision
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1715/output/master.m3u8
+
+#EXTINF:-1 tvg-name="NTV", NTV
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/master.m3u8
+
+#EXTINF:-1 tvg-name="Somoy TV", Somoy TV
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/master.m3u8
+
+#EXTINF:-1 tvg-name="Channel 24", Channel 24
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/master.m3u8
+
+### 🇮🇳 Indian Channels
+
+#EXTINF:-1 tvg-name="DD Bangla", DD Bangla
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
+
+#EXTINF:-1 tvg-name="Ruposhi", Ruposhi
+https://cdn-4.pishow.tv/live/1039/master.m3u8
+
+#EXTINF:-1 tvg-name="Republic Bangla", Republic Bangla
+https://otttv.co.in/d2h/livestream/r-bangla/master.m3u8
+
+#EXTINF:-1 tvg-name="High News", High News
+https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
+
+#EXTINF:-1 tvg-name="Ion TV", Ion TV
+https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
+
+#EXTINF:-1 tvg-name="R Plus", R Plus
+https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
+
+#EXTINF:-1 tvg-name="TV9 Bangla", TV9 Bangla
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tara Cinema", Tara Cinema
+http://103.145.48.150:90/laosat24/taratv/index.m3u8
+
+#EXTINF:-1 tvg-name="Movie Bangla", Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+
+#EXTINF:-1 tvg-name="Sony Aath", Sony Aath
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+
+#EXTINF:-1 tvg-name="Shemaroo Bollywood", Shemaroo Bollywood
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Enterr10 Bangla", Enterr10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Sony Liv HD", Sony Liv HD
+https://ml@dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
+
+#EXTINF:-1 tvg-name="& Flix HD", & Flix HD
+http://xott.live:8080/11224433/11224433/66172
+
+#EXTINF:-1 tvg-name="TLC", TLC
+http://watchindia.net:8880/live/40972/04523/840.m3u8
+
+#EXTINF:-1 tvg-name="Zee Bollywood", Zee Bollywood
+http://watchindia.net:8880/live/40972/04523/822.m3u8
+
+#EXTINF:-1 tvg-name="Zee Anmol", Zee Anmol
+http://watchindia.net:8880/live/40972/04523/813.m3u8
+
+#EXTINF:-1 tvg-name="Star Plus HD", Star Plus HD
+http://filex.tv:8080/Home329/Sohailhome/275037
+ ###https raw githubusercontent com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarPlusHd m3u8
+
+#EXTINF:-1 tvg-name="Star Gold HD", Star Gold HD
+http://xott.live:8080/11224433/11224433/66176
+
+#EXTINF:-1 tvg-name="Star Movies HD", Star Movies HD
+http://xott.live:8080/11224433/11224433/109970
+
+#EXTINF:-1 tvg-name="India TV HD", India Tv HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-indiatv-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Zoom", Zoom
+http://watchindia.net:8880/live/40972/04523/842.m3u8
+
+#EXTINF:-1 tvg-name="Zee Bangla HD", Zee Bangla HD
+http://stvlive.net:8080/zeebangla/index.m3u8
+
+#EXTINF:-1 tvg-name="Star Jalsha HD", Star Jalsha HD
+http://38.96.178.201/live/STARJALSHA/index.m3u8
+##Backup---https://raw githubusercontent com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarJalshaHd m3u8
+
+#EXTINF:-1 tvg name="The Q", The Q
+https://otttv.co.in/d2h/livestream/the-q/master.m3u8
+
+#EXTINF:-1 tvg-name="Colors HD", Colors HD
+http://xott.live:8080/11224433/11224433/66167
+
+#EXTINF:-1 tvg-name="8xm", 8xm
+http://125.209.88.166:45793/BRN/8XM.stream/playlist.m3u8
+
+#EXTINF:-1 tvg name="Pogo", Pogo
+https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Space Toon", Space Toon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
+
+### 🌐 International Channels
+
+#EXTINF:-1 tvg-name="BBC News", BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-name="CNN HD", CNN HD
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-name="GB News", GB News
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+
+#EXTINF:-1 tvg name="Sony Comedias", Sony Comedias
+https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="HBO HD", HBO HD
+http://xott.live:8080/11224433/11224433/66229
+
+#EXTINF:-1 tvg-name="Bloomberg", Bloomberg
+https://bloomberg.com/media-manifest/streams/eu.m3u8
+
+#EXTINF:-1 tvg-name="Russia Today", Russia Today
+https://otttv.co.in/d2h/livestream/russia-today/master.m3u8
+
+#EXTINF:-1 tvg-name="ABC News", ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-name="Cartoon Network", Cartoon Network
+http://filex.tv:8080/Home329/Sohailhome/304195
+
+#EXTINF:-1 tvg-name="Disney Channel", Disney Channel
+http://filex.tv:8080/Home329/Sohailhome/246763
+
+#EXTINF:-1 tvg-name="DW", DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT Sports 3", TNT Sports 3
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp2
+
+#EXTINF:-1 tvg-name="ESPN", ESPN
+http://38.96.178.201/live/ESPNHD/index.m3u8
+
+#EXTINF:-1 tvg-name="Redbull Tv", RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-name="Willow 2", Willow 2
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowextra
+
+#EXTINF:-1 tvg-name="PTV Sports", PTV Sports
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=ptvpk
+
+#EXTINF:-1 tvg-name="TEN Sports", TEN Sports
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Cricket", Sky Sports Cricket
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skyscric
+
+#EXTIINF:-1 tvg-name="Premier Sports 1", Premier Sports 1
+https://vis.dlolcast.com:7058/hls/viaplaysp1.m3u8?md6=6hEE9sQy5UvTRsdeTPBnwQ&expires=1749605157
+
+#EXTINF:-1 tvg-name="Sky Sports UK", Sky Sports UK
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNS9tb25vLm0zdTg=.m3u8
+
+#EXTINF:-1 tvg-name="Star Sports 1 HD", Star Sports 1 HD
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in
+
+#EXTINF:-1 tvg-name="Fifa+", Fifa+
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Discovery HD", Discovery HD
+http://xott.live:8080/11224433/11224433/109974
+
+#EXTINF:-1 tvg-name="National Geographic HD", National Geographic HD
+http://xott.live:8080/11224433/11224433/206285
+
+#EXTINF:-1 tvg-name="Al Jazeera English", Al Jazeera
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-jazeera-english/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Travel XP HD", Travel XP HD
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
